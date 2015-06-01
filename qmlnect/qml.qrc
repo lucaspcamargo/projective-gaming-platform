@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ControlWindow.qml</file>
+        <file>qml/ControlPanel.qml</file>
+        <file>qml/GameBase.qml</file>
+        <file>qml/GameViewer.qml</file>
+        <file>qml/grid/GameMain.qml</file>
+        <file>qml/grid/GridTile.qml</file>
+        <file>qml/ControlPanelUserDisplay.qml</file>
+        <file>qml/Splash.qml</file>
+        <file>qml/grid/PlayerMarker.qml</file>
+        <file>qml/SoundEffect.qml</file>
+        <file>qml/SoundMusic.qml</file>
+        <file>qml/helper/FloorProjectionHelper.qml</file>
+        <file>qml/helper/FloorProjectionHPointer.qml</file>
+        <file>qml/pong/GameMain.qml</file>
+        <file>qml/pong/ScoreMarker.qml</file>
+    </qresource>
+</RCC>
