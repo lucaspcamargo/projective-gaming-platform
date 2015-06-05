@@ -1,9 +1,11 @@
 # Projective Game Platform #
 
 This is the project results for TIEVS84 "Human-Technology Interaction Project Work".
-Created by Lucas Camargo.
+See [this blog post](http://lpcamargo.blogspot.co.uk/2015/06/projective-game-platform-for-public.html) for more.
 
+Also, check out this [demo video on YouTube](https://youtu.be/27d-k1h5oug).
 See qmlnect/LICENSE for licensing details.
+
 
 ### What is this repository for? ###
 
